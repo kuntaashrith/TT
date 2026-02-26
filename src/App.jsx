@@ -1,5 +1,5 @@
 import { Routes, Route } from "react-router-dom";
-import Reg from "./reg"
+import Reg from "./Reg"
 import Home from "./home"
 function App() {
   return(
